@@ -1,7 +1,3 @@
-Got it! Here's the documentation with the GitHub repository URL added:
-
----
-
 # Terraform AWS Portfolio Setup
 
 This Terraform configuration sets up an AWS S3 bucket to host a portfolio website. It includes configurations for bucket creation, ownership controls, public access settings, website hosting, and object uploads.
